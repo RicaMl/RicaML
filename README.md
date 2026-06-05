@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjEx.../giphy.gif](https://i.pinimg.com/originals/4b/e1/6c/4be16c6b3f93bc6ce988e812c93904ae.gif)" width="350" alt="Mon animation" />
-</p>
+![gif](https://camo.githubusercontent.com/c5e3773a1b21dc66fea6a08e99cc5283b830066605916252f652ef94b09f0bcf/68747470733a2f2f67696666696c65732e616c706861636f646572732e636f6d2f3139392f3139393437352e676966)
 <!--
 **RicaMl/RicaML** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
