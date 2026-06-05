@@ -1,4 +1,6 @@
-<img src="https://camo.githubusercontent.com/c5e3773a1b21dc66fea6a08e99cc5283b830066605916252f652ef94b09f0bcf/68747470733a2f2f67696666696c65732e616c706861636f646572732e636f6d2f3139392f3139393437352e676966" width="70%" />
+<p align="center">
+  <img src="https://camo.githubusercontent.com/c5e3773a1b21dc66fea6a08e99cc5283b830066605916252f652ef94b09f0bcf/68747470733a2f2f67696666696c65732e616c706861636f646572732e636f6d2f3139392f3139393437352e676966" width="70%" />
+</p>
 <!--
 **RicaMl/RicaML** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
