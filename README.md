@@ -1,5 +1,6 @@
-![Mon super projet]([https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjEx.../giphy.gif](https://i.pinimg.com/originals/4b/e1/6c/4be16c6b3f93bc6ce988e812c93904ae.gif))
-
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjEx.../giphy.gif](https://i.pinimg.com/originals/4b/e1/6c/4be16c6b3f93bc6ce988e812c93904ae.gif)" width="350" alt="Mon animation" />
+</p>
 <!--
 **RicaMl/RicaML** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
