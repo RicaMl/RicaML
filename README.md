@@ -46,7 +46,7 @@ Currently pursuing my Master's in Vision and Machine Intelligence (VMI) at Unive
 
 ### 🎲 Fun Facts
 * I've lived a nomadic life: I have never spent more than 10 consecutive years in a single country.
-* I absolutely despise eggs, I don't like coffee or matcha. Tea is my absolute go-to.
+* I don't like coffee or matcha. Tea is my absolute go-to.
 * I don't have a single favorite anime, I have a 5-way tie for #1 because choosing is impossible.
 
 ---
