@@ -32,6 +32,7 @@ Currently pursuing my Master's in Vision and Machine Intelligence (VMI) at Unive
   * Computer Vision (knowledge distillation, transfer learning, 3D Reconstruction, Detection, Recognition, Tracking)
   * Signal Processing (Audio & Image processing)
   * Programming (Python, Java, C++, Web, Mobile)
+  * Aeronautics & Aerospace (aviation technologies, space exploration, flight systems)
 * **Creative:** Digital photography, graphic design, and colorimetry.
 * **Lifestyle:** Fashion enthusiast, pilates, and morning runs.
 * **Media:** Reading science-fiction and watching anime.
