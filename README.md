@@ -5,7 +5,7 @@
 </p>
 
 I'm a computer vision and deep learning student based in Paris. 
-Currently pursuing my Master's in Vision and Machine Intelligence (VMI) at Université Paris Cité, I pivoted from backend development into the world of matrices and tensors.
+Currently pursuing my Master's in Vision and Machine Intelligence (VMI) at Université Paris Cité.
 
 ---
 
