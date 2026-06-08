@@ -52,7 +52,7 @@ Currently pursuing my Master's in Vision and Machine Intelligence (VMI) at Unive
 
 ---
 
-💬 **Let's connect!** Whether you want to talk about computer vision, discuss a project, or trade your best Korean skincare secrets (because keeping a fresh glow after an all-night training run is vital), feel free to reach out!
+💬 **Let's connect!** Whether you want to talk about computer vision, discuss a project, or trade your best Korean skincare secrets, feel free to reach out!
 
 
 
