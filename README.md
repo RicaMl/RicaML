@@ -21,7 +21,7 @@ Currently pursuing my Master's in Vision and Machine Intelligence (VMI) at Unive
 | **CLIP Model Knowledge Distillation** | Distilling a large CLIP model into a student network to deploy efficient underwater species recognition on edge devices. |
 | **Coin Recognition & Classification** | Combining classical computer vision (Hough, Canny) and an CNN (AlexNet) to segment, value, and count multicultural currency. |
 | **Shape Recognition under Degradation** | Evaluating 5 shape descriptors using k-NN/k-means to robustly classify complex binary images with noise and occlusions. |
-| **Time-Series Anomaly Detection** | Implementing STL decomposition and Isolation Forest in Python to detect sensor failures and irregular data points. |
+| **Thermal Image Anomaly Detection** | Combining OpenCV-based segmentation and Isolation Forest to classify critical thermal anomalies from infrared camera data. |
 | **Hybrid Information Retrieval Engine** | Combining lexical (BM25+) and semantic embeddings with a query reranking module to deliver highly relevant multi-domain search results. |
 
 
