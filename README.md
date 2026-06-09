@@ -7,7 +7,7 @@
 I'm a computer vision and deep learning student based in Paris. 
 Currently pursuing my Master's in Vision and Machine Intelligence (VMI) at Université Paris Cité.
 
-🌍 **[Explore my Portfolio](https://ricaml.github.io/portfolio/)**
+🌍 <b><a href="https://ricaml.github.io/portfolio/" target="_blank" rel="noopener noreferrer">Explore my Portfolio</a></b>
 
 ---
 
